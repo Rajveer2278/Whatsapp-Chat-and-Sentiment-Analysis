@@ -131,7 +131,7 @@ if uploaded_file is not None:
 
 
 stll = """
-<h3 align="left">Made with ❤️ by Rajveer Singh and Japneet Singh</h3>
+<h3 align="left">Made with ❤️ by Rajveer Singh </h3>
 <p align="left">
 </p>
 """
